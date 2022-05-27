@@ -1,11 +1,14 @@
 public class Program
 {
 	public static void main(String[] args) {
+		khlopkova();
 		kislushchanka();
 		dubina();
 	}
-
-	public static void kislushchanka() {
+	public static void khlopkova() {
+		System.out.println("Khlopkova");
+	}
+	public static void kislushchanka(){
 		System.out.println("Кислущенко Андрей Валерьевич");
 	}
 
